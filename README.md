@@ -1,4 +1,4 @@
-# 🖥️ The Photography Studio
+# 🖥️ Preloader Counter
 
 > Preloader desenvolvido apenas com **HTML** e **CSS**.
 
